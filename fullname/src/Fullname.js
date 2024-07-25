@@ -16,7 +16,7 @@ const Fullname = () => {
 
   return (
     <div>
-      <h1>Full Name Dispaly</h1>
+      <h1>Full Name Display</h1>
       <form>
         <div>
           <label>First Name:</label>
